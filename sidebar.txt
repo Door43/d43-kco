@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kco:home|Door43 (kco)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kco|d43-kco repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kco/archive/master.zip|d43-kco.zip]]
+
+**Recent Changes**
+{{changes>ns = kco}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kco|Ethnologue data]]
+
